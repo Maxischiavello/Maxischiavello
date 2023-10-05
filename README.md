@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#Soy Maximiliano Schiavello
-###Desarrollador.
+Soy Maximiliano Schiavello
 
 ## Experiencia
 
