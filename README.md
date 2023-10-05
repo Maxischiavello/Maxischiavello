@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Soy Maximiliano Schiavello
+### Hola 👋 Soy Maximiliano Schiavello
 
 ## Experiencia
 
