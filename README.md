@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**Maxischiavello/Maxischiavello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Soy Maximiliano Schiavello
+###Desarrollador.
 
-Here are some ideas to get you started:
+## Experiencia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desarrollador de Software**
+*Marzo del 2021 - Actualidad*
+
+- Colaboración con el equipo para el diseño de aplicaciones.
+- Codificación de API Rest.
+- Diseño de base de datos relacional, funciones, stored procedures y consultas SQL.
+- Codificación de interfaces gráficas.
+
+## Habilidades
+
+- Programación Orientada a Objetos (POO)
+- Base de datos relacional (DER, DLR, SQL)
+- HTML, CSS, JavaScript, Node.js, React.js
+- Android Studio, Kotlin, XML
+- C#, ASP.net Core
+- Java, Spring, Hibernate
+- Inglés avanzado
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/maximiliano-schiavello/)
+
+¡Siempre estoy interesado en colaborar en proyectos emocionantes y aprender nuevas tecnologías!
+
