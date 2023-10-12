@@ -17,7 +17,7 @@
 - HTML, CSS, JavaScript, Node.js, React.js
 - Android Studio, Kotlin, XML
 - C#, ASP.net Core
-- Java, Spring, Hibernate
+- Java, Spring Boot, Spring JPA, Spring Security
 - Inglés avanzado
 
 ## Contacto
