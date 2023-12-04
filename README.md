@@ -18,7 +18,7 @@
 - Android Studio, Kotlin, XML
 - C#, ASP.net Core
 - Java, Spring Boot, Spring JPA, Spring Security
-- Inglés avanzado
+- Inglés B2
 
 ## Contacto
 
