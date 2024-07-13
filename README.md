@@ -6,18 +6,19 @@
 *Marzo del 2021 - Actualidad*
 
 - Colaboración con el equipo para el diseño de aplicaciones.
-- Codificación de API Rest.
+- Desarrollo de API Rest.
 - Diseño de base de datos relacional, funciones, stored procedures y consultas SQL.
-- Codificación de interfaces gráficas.
+- Desarrollo de interfaces gráficas.
 
 ## Habilidades
 
 - Programación Orientada a Objetos (POO)
+- Diagrama de clases (UML), Diagrama de secuencia
 - Base de datos relacional (DER, DLR, SQL)
 - HTML, CSS, JavaScript, Node.js, React.js
 - Android Studio, Kotlin, XML
 - C#, ASP.net Core
-- Java, Spring Boot, Spring JPA, Spring Security
+- Java, Spring Boot, Spring JPA, Spring Security, JavaFX
 - Inglés B2
 
 ## Contacto
