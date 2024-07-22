@@ -3,12 +3,20 @@
 ## Experiencia
 
 **Desarrollador de Software**
-*Marzo del 2021 - Actualidad*
+*Marzo 2021 - Actualidad*
 
 - Colaboración con el equipo para el diseño de aplicaciones.
 - Desarrollo de API Rest.
 - Diseño de base de datos relacional, funciones, stored procedures y consultas SQL.
 - Desarrollo de interfaces gráficas.
+
+**Desarrollador de Software**
+*Marzo 2024 - Junio 2024*
+
+Participación en un proyecto en equipo para el instituto ORT. El proyecto consistió en la
+automatización de la exportación de las calificaciones del instituto hacia un Google drive, en el
+formato especificado y con la frecuencia de descarga configurable.
+Tecnologías utilizadas: PHP, Moodle, Google Drive API.
 
 ## Habilidades
 
